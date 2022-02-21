@@ -10,6 +10,8 @@ namespace GitGkatsos
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ekana ALlagh");
+            Console.WriteLine("Ekana ALlagh2");
         }
     }
 }
